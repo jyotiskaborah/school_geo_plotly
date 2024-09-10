@@ -1,1 +1,1 @@
-A test project to learn about plotly and .geojason files
+A test project to learn about plotly and .geojson files
